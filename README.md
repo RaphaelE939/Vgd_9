@@ -1,2 +1,2 @@
 # Vgd_9
-This repository is for my video Game Design class where I learn code for c#
+This repository is for my Video Game Design class where I learn code for C#
